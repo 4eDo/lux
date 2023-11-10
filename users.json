@@ -3,6 +3,9 @@
     "name": "Bertram H. Wells",
     "anketa": "https://luxhp.ru/viewtopic.php?id=1400#p115696",
     "birth": 1948,
+    "death": 1982,
+    "isCanon": false,
+    "isPlayer": true,
     "job": [
       {
         "title": "Хогвартс. Рейвенкло. Ученик",
@@ -90,6 +93,8 @@
     "name": "Alastor Moody",
     "anketa": "https://luxhp.ru/viewtopic.php?id=1303#p104617",
     "birth": 1942,
+    "isCanon": true,
+    "isPlayer": false,
     "job": [
       {
         "title": "Хогвартс. Гриффиндор. Ученик",
