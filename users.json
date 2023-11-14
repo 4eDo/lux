@@ -74,5 +74,16 @@
         "start": 1972
       }
     ]
+  },
+  {
+    "name": "Sir Cadogan",
+    "birth": 0,
+    "isCanon": true,
+    "isPlayer": false,
+    "job": [
+      {
+        "title": "Форум. Бог"
+      }
+    ]
   }
 ]
