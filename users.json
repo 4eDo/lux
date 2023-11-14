@@ -46,6 +46,8 @@
     "name": "Matthew California",
     "anketa": "https://alluvio.ru/viewtopic.php?id=2593",
     "birth": 1939,
+    "isCanon": false,
+    "isPlayer": true,
     "job": [
       {
         "title": "Хогвартс. Гриффиндор. Ученик",
